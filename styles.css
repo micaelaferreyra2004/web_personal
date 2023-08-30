@@ -1,0 +1,16 @@
+h1{
+    color: darkblue;
+    font-size: 24px;
+    text-align: center;
+    font-family: monospace;
+}   
+
+p{
+    color: rgb(2, 0, 0);
+    font-size: 18px;
+    font-family: Arial;
+}
+img{
+    margin-left: 30%;
+    margin-top: 3%;
+}
